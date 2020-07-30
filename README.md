@@ -1,2 +1,2 @@
-# blueskyphp.github.io
-static website
+#wechat
+#well, server will be used as ios api server, just keep cdn some static pages, keep the server clean...
