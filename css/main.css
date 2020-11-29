@@ -1,0 +1,24 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * aktiv-grotesk:
+ *   - http://typekit.com/eulas/00000000000000003b9b0328
+ *   - http://typekit.com/eulas/00000000000000003b9b0329
+ *   - http://typekit.com/eulas/00000000000000003b9b032d
+ *   - http://typekit.com/eulas/00000000000000003b9b032c
+ * mrs-eaves-xl-serif:
+ *   - http://typekit.com/eulas/00000000000000003b9adc13
+ *
+ * © 2009-2020 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2019-11-25 17:40:19 UTC"}*/
+
+.footer_copyright a {
+	color:gray;
+}
+
+.tk-aktiv-grotesk { font-family: "aktiv-grotesk",sans-serif; }
+.tk-mrs-eaves-xl-serif { font-family: "mrs-eaves-xl-serif",serif; }
